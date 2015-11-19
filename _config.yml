@@ -1,0 +1,28 @@
+name: shopsimple.co
+favicon: null
+layout_spectrum: 0.13852353510446846
+typography_spectrum: 0.8016904224641621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2755979064386338
+  lightness: 0.6717505834531039
+  saturation: 0.7513615575153381
+  rhythmicContrast: 0.8632204637397081
+purpose: []
